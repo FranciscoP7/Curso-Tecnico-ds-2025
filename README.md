@@ -1,1 +1,1 @@
-# Curso-T-cnico
+# Curso-Tecnico
