@@ -1,0 +1,17 @@
+html{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+  margin-top: -16px;
+  background-color: cadetblue;
+  color: white;
+  text-align: center;
+}
+.container{
+  padding-left: 50px;
+  background-color: whitesmoke;
+}
+
+.container img{
+  border-radius: 10px;
+}
