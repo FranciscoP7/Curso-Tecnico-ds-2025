@@ -8,10 +8,17 @@ header{
   text-align: center;
 }
 .container{
+  border-radius: 30px;
   padding-left: 50px;
   background-color: whitesmoke;
 }
 
 .container img{
   border-radius: 10px;
+}
+.container h2{
+  padding: 20px 0 0px;
+}
+.container p{
+  padding: 0 0 20px;
 }
