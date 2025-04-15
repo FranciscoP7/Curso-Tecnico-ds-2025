@@ -1,26 +1,20 @@
 # Curso Técnico em Desenvolvimento de Sistemas 2025
-
-Uma breve descrição do curso, que visa preparar os alunos para atuarem no desenvolvimento de sistemas por meio de uma formação técnica sólida e prática, fornecendo uma base teórica e aplicável no mercado de trabalho.
-
----
-
-## Tabela de Conteúdos
-- [Introdução](#introdução)
-- [Professores](#professores)
-- [Matérias](#matérias)
-- [Créditos](#créditos)
+> Um curso técnico voltado para quem deseja ingressar ou se especializar na área de desenvolvimento de sistemas, proporcionando uma base sólida em **programação**, **fundamentos da computação**, **banco de dados** e muito mais.
 
 ---
 
-## Introdução
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Programação%20Web-Front%20e%20Back-green" alt="Programação Web Badge"/>
+  <img src="https://img.shields.io/badge/Fundamentos%20da%20Computação-Teoria-blue" alt="Fundamentos da Computação Badge"/>
+  <img src="https://img.shields.io/badge/Banco%20de%20Dados-SQL-yellow" alt="Banco de Dados Badge"/>
+  <img src="https://img.shields.io/badge/Lógica%20de%20Programação-Algoritmos%20e%20Estruturas%20de%20Dados-orange" alt="Lógica de Programação Badge"/>
 
-Este repositório reúne informações sobre o **Curso Técnico em Desenvolvimento de Sistemas 2025**. O curso é direcionado para formar profissionais capacitados para enfrentar os desafios do desenvolvimento tecnológico, combinando teoria e prática por meio de disciplinas essenciais.
+</div>
 
 ---
 
 ## Professores
-
-Os professores responsáveis pelo curso são:
 
 - **Clóvis**
 - **Everton**
@@ -29,15 +23,26 @@ Os professores responsáveis pelo curso são:
 
 ## Matérias
 
-As disciplinas que compõem o curso incluem:
-
-- **Programação Web**
-- **Fundamentos da Computação**
-- **Banco de Dados**
-- **Lógica de Programação**
-
+| Matéria                    | Descrição                                                                                              |
+|----------------------------|--------------------------------------------------------------------------------------------------------|
+| **Programação Web**        | Estudo e prática do desenvolvimento de aplicações para a web, abordando tecnologias como HTML, CSS, JavaScript, além de frameworks modernos e integração com back-end. Foco em criação de sites responsivos e dinâmicos. |
+| **Fundamentos da Computação** | Compreensão das bases da computação, incluindo hardware, sistemas operacionais, arquitetura de computadores, redes e funcionamento interno de dispositivos digitais. |
+| **Banco de Dados**         | Introdução e aprofundamento na modelagem de dados, linguagem SQL, normalização, gerenciamento de dados e uso de sistemas como MySQL, PostgreSQL e NoSQL. Aplicação prática com projetos reais. |
+| **Lógica de Programação**  | Desenvolvimento do raciocínio lógico aplicado à programação. Estudo de algoritmos, estruturas de controle (condições e repetições), vetores, matrizes e boas práticas de codificação. Ideal para iniciantes. |
 ---
 
-## Créditos
 
-Agradecimentos especiais aos professores e equipe pedagógica que tornam possível a realização deste curso.
+## Tecnologias
+
+Aqui estão algumas das tecnologias abordadas no curso, dependendo da ênfase de cada módulo:
+
+<div>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/> 
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+
+
+</div>
+
+
+
