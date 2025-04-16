@@ -23,12 +23,12 @@
 
 ## Matérias
 
-| Matéria                    | Descrição                                                                                              |
-|----------------------------|--------------------------------------------------------------------------------------------------------|
-| **Programação Web**        | Estudo e prática do desenvolvimento de aplicações para a web, abordando tecnologias como HTML, CSS, JavaScript, além de frameworks modernos e integração com back-end. Foco em criação de sites responsivos e dinâmicos. |
-| **Fundamentos da Computação** | Compreensão das bases da computação, incluindo hardware, sistemas operacionais, arquitetura de computadores, redes e funcionamento interno de dispositivos digitais. |
-| **Banco de Dados**         | Introdução e aprofundamento na modelagem de dados, linguagem SQL, normalização, gerenciamento de dados e uso de sistemas como MySQL, PostgreSQL e NoSQL. Aplicação prática com projetos reais. |
-| **Lógica de Programação**  | Desenvolvimento do raciocínio lógico aplicado à programação. Estudo de algoritmos, estruturas de controle (condições e repetições), vetores, matrizes e boas práticas de codificação. Ideal para iniciantes. |
+| Matéria                    |
+|----------------------------|
+| **Programação Web**        | 
+| **Fundamentos da Computação** |
+| **Banco de Dados**         | 
+| **Lógica de Programação**  |
 ---
 
 
