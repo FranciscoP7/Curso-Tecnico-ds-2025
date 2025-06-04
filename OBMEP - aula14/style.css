@@ -1,0 +1,85 @@
+
+header {
+  background-color: rgba(0, 0, 0, 0.911);
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+}
+
+header a img {
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+}
+
+body {
+  background-color: rgb(255, 241, 224);
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.nav {
+  background: linear-gradient(45deg, #FFD700, #FF8C00);
+  text-align: center;
+  padding: 15px 0;
+}
+
+.nav a.btn {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 20px;
+  padding: 10px 20px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.nav a.btn img {
+  vertical-align: middle;
+  width: 24px;
+  height: 24px;
+}
+
+.nav a.btn:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 5px;
+  transform: scale(1.1);
+}
+
+main {
+  padding: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.card {
+  display: flex;
+  align-items: center; 
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  gap: 20px;
+}
+
+
+.card-info {
+  flex: 1;
+}
+
+
+.card-gabarito {
+  flex: 1;
+}
+
+
+.card-gabarito iframe {
+  width: 500px;
+  height: 281px;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
